@@ -3,6 +3,7 @@ package com.wangyuan.bean;
 public class Teacher {
     private String tName;
     private String gender;
+    private Integer age;
 
     public Teacher() {
     }
